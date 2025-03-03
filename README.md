@@ -1,5 +1,5 @@
 
-# Creator AI Bot Platform (MKBHD Demo)
+# Creator AI Bot Platform (Demo)
 
 This is a fully packaged pipeline to fetch creator data, process product mentions, and power a personalized AI recommendation bot using Gemini Pro.
 
