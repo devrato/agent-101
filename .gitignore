@@ -1,4 +1,4 @@
-.dev_container
+.devcontainer
 .env
 .streamlit/secrets.toml
 __pycache__/
